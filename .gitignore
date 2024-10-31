@@ -73,6 +73,7 @@ crashlytics-build.properties
 Packages/
 .vscode/
 Settings/
-Assets/Scenes/
-Assets/Prefabs/
+Scenes/
+Prefabs/
+Materials/
 
