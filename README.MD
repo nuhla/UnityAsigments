@@ -21,6 +21,6 @@
 
 ![](IMG/assigment11_palyer.JPG)
 
-- OutPut  class
+- OutPut  
 
 ![](IMG/assigment11_output.JPG)
