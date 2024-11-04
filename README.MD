@@ -19,7 +19,7 @@
 
 - GameManager Class  
 
-![](IMG/assigment11_palyer.JPG)
+![](IMG/assigment11_GameMager.JPG)
 
 - OutPut  
 
