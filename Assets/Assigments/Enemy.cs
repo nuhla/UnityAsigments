@@ -4,10 +4,10 @@ using UnityEngine;
 
 public class Enemy : Character
 {
-    public Enemy(string name, int haelth)
+    public Enemy(string name, int haelth) : base(name, haelth)
     {
-        this.charHealth = haelth;
-        this.charName = name;
+
+
     }
     public void Attack(int value, Character player)
     {

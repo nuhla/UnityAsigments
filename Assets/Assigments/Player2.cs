@@ -5,10 +5,9 @@ using UnityEngine;
 public class Player2 : Character
 {
 
-    public Player2(string name, int haelth)
+    public Player2(string name, int haelth) : base(name, haelth)
     {
-        this.charHealth = haelth;
-        this.charName = name;
+
     }
     // Start is called before the first frame update
     public void Heal(int value)
