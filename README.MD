@@ -24,3 +24,32 @@
 - OutPut  
 
 ![](IMG/assigment11_output.JPG)
+
+
+## Assigment Number 14 : 
+#### Basic Programming in C# - Create the Player Class
+
+- Character Class  
+
+![](IMG/character.JPG)
+
+
+- Player2 Class  
+
+![](IMG/Player2.JPG)
+
+
+
+- Enamy Class  
+
+![](IMG/Enamy.JPG)
+
+
+- GameManeger   
+
+![](IMG/gameObject_14.JPG)
+
+
+- Output    
+
+![](IMG/assigment11_palyer.JPG)
