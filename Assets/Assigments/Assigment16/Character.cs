@@ -41,7 +41,7 @@ namespace Assignment18
             this.position = position;
         }
 
-        public Character() : this("New Character", 100, new Assignment18.Position(0, 0)) { }
+        public Character() : this("New Character", 100, new Position(0, 0)) { }
 
         /*5. Create a virtual method named DisplayInfo that uses Debug.Log to display
         name, Health, and position (using the printPosition of the struct).*/
