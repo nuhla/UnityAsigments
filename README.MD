@@ -53,3 +53,8 @@
 - Output    
 
 ![](IMG/assigment14_output.JPG)
+
+
+## Assigment 24 Enum
+
+![](IMG/Assigment24.JPG)
