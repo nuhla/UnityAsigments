@@ -7,10 +7,15 @@ namespace Assigment24
     public class RacingGame : MonoBehaviour
     {
         public RaceState raceState;
+        private RaceState oldValue;
 
-
+        private void Start()
+        {
+            oldValue = raceState;
+        }
         public void SimulateRace()
         {
+
 
 
             switch (raceState)
@@ -42,9 +47,15 @@ namespace Assigment24
             }
         }
         // Start is called before the first frame update
-        void Start()
+        void Update()
         {
-            SimulateRace();
+
+            if (oldValue != raceState)
+            {
+                SimulateRace();
+                oldValue = raceState;
+            }
+
         }
 
         // Update is called once per frame
