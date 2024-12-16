@@ -58,3 +58,13 @@
 ## Assigment 24 Enum
 
 ![](IMG/Assigment24.JPG)
+
+
+## Assigment 26 Interfaces in C#
+
+![](IMG/Assigment26.JPG)
+
+
+## Assigment 27 Call by Value and Call by Reference in C#
+
+![](IMG/Assigment27.JPG)
