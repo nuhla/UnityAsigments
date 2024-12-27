@@ -73,6 +73,12 @@
 
 ## Assigment 29 
 
+#### Part 1:
+Objective: Practice foundational C# concepts (var, ternary operators, string
+interpolation, and System.DateTime).
+
+![](IMG/Assigment29/Part1.JPG)
+
 #### Part 5: Exception Handling
 
 ![](IMG/Assigment29/Part5.JPG)
