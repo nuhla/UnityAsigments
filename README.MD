@@ -68,3 +68,12 @@
 ## Assigment 27 Call by Value and Call by Reference in C#
 
 ![](IMG/Assigment27.JPG)
+
+
+
+## Assigment 29 
+
+#### Part 6: Unity Lifecycle and Object Interaction
+
+![](IMG/Assigment29/Part6.JPG)
+
