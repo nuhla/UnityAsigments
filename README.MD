@@ -79,6 +79,12 @@ interpolation, and System.DateTime).
 
 ![](IMG/Assigment29/Part1.JPG)
 
+#### Part 2:Custom Class Requirements
+
+
+![](IMG/Assigment29/Part2.JPG)
+
+
 #### Part 5: Exception Handling
 
 ![](IMG/Assigment29/Part5.JPG)
