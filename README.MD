@@ -73,6 +73,10 @@
 
 ## Assigment 29 
 
+#### Part 5: Exception Handling
+
+![](IMG/Assigment29/Part5.JPG)
+
 #### Part 6: Unity Lifecycle and Object Interaction
 
 ![](IMG/Assigment29/Part6.JPG)
