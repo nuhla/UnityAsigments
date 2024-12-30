@@ -2,7 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class RecursionScript : MonoBehaviour
+namespace Assigment29.part3
+{
+    public class RecursionScript : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
@@ -33,4 +35,5 @@ public class RecursionScript : MonoBehaviour
     }
     // Update is called once per frame
 
+}
 }
