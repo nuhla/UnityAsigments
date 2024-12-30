@@ -92,6 +92,11 @@ interpolation, and System.DateTime).
 ![](IMG/Assigment29/Part3.JPG)
 
 
+#### Part 4: Type Casting
+
+![](IMG/Assigment29/Part4.JPG)
+
+
 #### Part 5: Exception Handling
 
 ![](IMG/Assigment29/Part5.JPG)
