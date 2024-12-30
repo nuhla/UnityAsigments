@@ -84,8 +84,12 @@ interpolation, and System.DateTime).
 
 #### Part 2:Custom Class Requirements
 
-
 ![](IMG/Assigment29/Part2.JPG)
+
+
+#### Part 3: Static Classes and Extension Methods
+
+![](IMG/Assigment29/Part3.JPG)
 
 
 #### Part 5: Exception Handling
