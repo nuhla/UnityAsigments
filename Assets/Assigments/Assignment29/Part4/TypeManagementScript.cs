@@ -51,7 +51,7 @@ namespace Assigment29.Part4
 
         public void Move()
         {
-            Debug.Log("Cat runs quickly.");
+            Debug.Log("Animal Moves.");
         }
     }
 
