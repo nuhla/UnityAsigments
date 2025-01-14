@@ -134,4 +134,11 @@ Objective:
 Learn how to use the List.FindAll method to filter elements in a list based on
 a specified condition.
 
-![](IMG/Assigment35/Part5/Capture.JPG)
+![](IMG/Assigment35/Part4-5/Capture.JPG)
+
+### Part 4: Sorting a List<int> in Reverse Order Using List.Sort with CompareTo and a Lambda Expression
+Objective:
+Sort a list of integers in descending order using List.Sort with a lambda
+expression and verify the results by printing the sorted list in one line.
+
+![](IMG/Assigment35/Part4-5/Capture.JPG)
