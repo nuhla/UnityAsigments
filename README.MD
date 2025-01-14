@@ -110,3 +110,20 @@ interpolation, and System.DateTime).
 
 ![](IMG/Assigment29/Part7.JPG)
 
+## ---------------------------------------------------------------------
+## Assigment 35 
+
+### Part 7: Method Chaining in Unity
+Objective:
+Learn how to implement and use method chaining in Unity by creating methods that return the
+current instance of the class (this), enabling chained method calls.
+
+![](IMG/Assigment35/Part7/Capture.JPG)
+
+
+### Part 3: Action, Func, and Predicate Delegates in C#
+Objective:
+Learn how to use built-in generic delegates in C# (Action, Func, and Predicate) to simplify
+method handling and delegate creation.
+
+![](IMG/Assigment35/Part3/Capture.JPG)
