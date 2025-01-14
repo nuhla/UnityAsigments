@@ -127,3 +127,11 @@ Learn how to use built-in generic delegates in C# (Action, Func, and Predicate) 
 method handling and delegate creation.
 
 ![](IMG/Assigment35/Part3/Capture.JPG)
+
+
+### Part 5: Using List.FindAll in C#
+Objective:
+Learn how to use the List.FindAll method to filter elements in a list based on
+a specified condition.
+
+![](IMG/Assigment35/Part5/Capture.JPG)

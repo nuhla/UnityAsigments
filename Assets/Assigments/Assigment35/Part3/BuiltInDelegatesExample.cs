@@ -16,7 +16,7 @@ namespace Assigment35.part3
         void Start()
         {
             logMessage = (string mess) => Debug.Log(mess);
-            logMessage("Hello");
+            logMessage("Hello from Action delegate!");
 
             square = (int num) => 5 * 5;
             Debug.Log($"Square: {square(5)}");
