@@ -113,12 +113,12 @@ interpolation, and System.DateTime).
 ## ---------------------------------------------------------------------
 ## Assigment 35 
 
-### Part 7: Method Chaining in Unity
+### Part 1: Boxing and Unboxing in C#
 Objective:
-Learn how to implement and use method chaining in Unity by creating methods that return the
-current instance of the class (this), enabling chained method calls.
+Integrate boxing and unboxing into a Unity script BoxingUnboxing to understand
+how value types are converted to reference types and back.
 
-![](IMG/Assigment35/Part7/Capture.JPG)
+![](IMG/Assigment35/Part1/Capture.JPG)
 
 
 ### Part 3: Action, Func, and Predicate Delegates in C#
@@ -129,6 +129,14 @@ method handling and delegate creation.
 ![](IMG/Assigment35/Part3/Capture.JPG)
 
 
+### Part 4: Sorting a List<int> in Reverse Order Using List.Sort with CompareTo and a Lambda Expression
+Objective:
+Sort a list of integers in descending order using List.Sort with a lambda
+expression and verify the results by printing the sorted list in one line.
+
+![](IMG/Assigment35/Part4-5/Capture.JPG)
+
+
 ### Part 5: Using List.FindAll in C#
 Objective:
 Learn how to use the List.FindAll method to filter elements in a list based on
@@ -136,9 +144,10 @@ a specified condition.
 
 ![](IMG/Assigment35/Part4-5/Capture.JPG)
 
-### Part 4: Sorting a List<int> in Reverse Order Using List.Sort with CompareTo and a Lambda Expression
-Objective:
-Sort a list of integers in descending order using List.Sort with a lambda
-expression and verify the results by printing the sorted list in one line.
 
-![](IMG/Assigment35/Part4-5/Capture.JPG)
+### Part 7: Method Chaining in Unity
+Objective:
+Learn how to implement and use method chaining in Unity by creating methods that return the
+current instance of the class (this), enabling chained method calls.
+
+![](IMG/Assigment35/Part7/Capture.JPG)
