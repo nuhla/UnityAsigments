@@ -151,6 +151,13 @@ a specified condition.
 
 ![](IMG/Assigment35/Part4-5/Capture.JPG)
 
+### Part 6: Using UnityEvent and AddListener() in Unity
+Objective:
+Learn how to use UnityEvent and AddListener() to create and handle
+custom events programmatically.
+
+![](IMG/Assigment35/Part6/Capture.JPG)
+
 
 ### Part 7: Method Chaining in Unity
 Objective:
