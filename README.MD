@@ -120,6 +120,13 @@ how value types are converted to reference types and back.
 
 ![](IMG/Assigment35/Part1/Capture.JPG)
 
+### Part 2: Multicast Delegates in C#
+Objective:
+Learn how to use a delegates in C# to call multiple methods in sequence by using the +=
+operator.
+
+![](IMG/Assigment35/Part2/Capture.JPG)
+
 
 ### Part 3: Action, Func, and Predicate Delegates in C#
 Objective:
