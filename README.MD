@@ -167,7 +167,7 @@ current instance of the class (this), enabling chained method calls.
 ![](IMG/Assigment35/Part7/Capture.JPG)
 
 
-Part 8: Abstract Classes in C#
+### Part 8: Abstract Classes in C#
 Objective:
 Learn how to define and use abstract classes by creating a base class with abstract methods
 and deriving concrete classes from it.
